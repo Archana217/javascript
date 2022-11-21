@@ -27,7 +27,7 @@
 // 7) git push -u "<pass your project clone url>" master
 
 
-
+// pallavi is clever girl
 
 
 
